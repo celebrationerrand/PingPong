@@ -1,0 +1,38 @@
+# Compiled files and build artifacts
+*.obj
+*.pdb
+*.ilk
+*.ipdb
+*.iobj
+*.exe
+*.dll
+*.lib
+*.exp
+*.idb
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+
+# User-specific Visual Studio files
+*.user
+*.suo
+*.vcxproj.user
+*.opendb
+*.VC.db
+
+# SFML dynamic libraries and third-party libraries
+libs/
+*.dll
+
+# System files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor backups and temporary files
+*.bak
+*.tmp
+~*
